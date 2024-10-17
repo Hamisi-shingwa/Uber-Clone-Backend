@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data"
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Properties"
   ],
-  "SelectedNode": "\\Models",
+  "SelectedNode": "\\Properties\\launchSettings.json",
   "PreviewInSolutionExplorer": false
 }
